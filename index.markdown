@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Shane Hall Resume"
+title: "Resume"
 ---
 
 # Shane Hall
@@ -73,6 +73,6 @@ Awarded 5 patents for social platform innovations: US8784204B2, US20130231179A1,
 - Roadmap Planning, Product & UX Management, Engineering Partnership
 
 <audio controls>
-  <source src="{{ '/assets/audio/intro.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ '/assets/audio/Deep_Dive.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
