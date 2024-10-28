@@ -3,76 +3,62 @@ layout: default
 title: "Resume"
 ---
 
-# Shane Hall
+# SHANE HALL
 
-**Portland, OR** | 323-972-2690 | [shane@shanephall.com](mailto:shane@shanephall.com)
+**Portland, OR &nbsp; | &nbsp; 323-972-2690 &nbsp; | &nbsp; shane@shanephall.com**
 
-Versatile product leader with 20+ years of experience building consumer platforms and driving AI/ML initiatives. Skilled at building high-performing teams and products that grow the business. Passionate about product culture, cross-functional collaboration, and solving complex problems.
+Product leader with 14+ years of experience building consumer platforms and driving AI/ML initiatives that scale product development and revenue. Passionate about product culture and skilled at recruiting and managing high-performing Engineering, Product, and Design teams, as well as ensuring seamless operations and buy-in with cross-functional and c-suite partners. Seeking next career role following year-long personal sabbatical. 
 
-## Experience
+## EXPERIENCE
 
-### Change.org - San Francisco, Paris, Portland, OR  
-**06/2015 - 10/2023**
+**CHANGE.ORG &nbsp;\- &nbsp;San Francisco &nbsp; | &nbsp; Paris &nbsp; | &nbsp; Portland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06/2015 \- 10/2023**\
+**Director of Product, AI/ML** (08/2020 \- 10/2023)\
+**Director of Product, Growth** (09/2016 \- 08/2020)\
+**Principal Product Manager, Head of Mobile** (06/2015 \- 09/2016)
 
-- **Product Director, AI/ML (07/2020 - 10/2023)**
-  - Built LLM & NLP services and content recommender systems, driving 2.5X higher email conversion, 4X onsite conversion, and doubling NPS.
-- **Product Director, Growth (09/2016 - 08/2020)**
-  - Redesigned core product flow, optimizing for growth and driving 2X more social traffic and 5X lift in revenue.
-- **Principal Product Manager, Head of Mobile (06/2015 - 09/2016)**
-  - Managed the API platform and mobile strategy, building the team and the company’s first mobile apps for iOS and Android.
+* Recruited by CTO and reported to the President of the $100M+ global platform for social change with 500M+ users in 196 countries and investors like Reid Hoffman, Bill Gates, and Sam Altman; exited org during restructure. 
 
-### The Hunt (acquired by Pinterest) - San Francisco, CA  
-**10/2012 - 02/2015**
+* Tasked with delivering the global strategy and transformation plan and building a new Product, Design, and Development division for mobile, later also taking over Growth, Content Marketing and AI/ML Engineering divisions. 
 
-- **Head of Product**
-  - First executive hire, owned product and design, and built a 7-person team across product, design, and user research.
-  - Spearheaded transition from web to mobile, launching iOS & Android apps and scaling the product 1,000X.
+* Recruited and managed Engineering, Design, and Product org of 10 reports; led development and launch of Android and iOS with API platform operations and owned continuous design and features improvements. 
 
-### RealTidbits (acquired by Livefyre) - San Diego, CA  
-**01/2012 - 11/2013**
+* Promoted repeatedly following success, taking the brand into AI utilization, launching LLM and NLP services and content recommender systems, driving 2.5x higher email conversion, 4x onsite conversion, and doubling NPS.
 
-- **Product Advisor**
-  - Advised on growth and platform development as part of the advisory board.
+* Led redesign of the business model and core product flow to add new revenue stream (user-generated promotions/ads); new products dramatically grew revenue with 5x increase in monetization and drove 2x social traffic increase. 
 
-### Zynga - San Francisco, CA  
-**03/2011 - 09/2012**
+**THE HUNT (acquired by PINTEREST) \- San Francisco, CA  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;10/2012 \- 02/2015**\
+**Head of Product**
 
-- **Lead Product Manager**
-  - Led Zynga.com from concept to launch, hitting 1M daily active users in 3 months. Earned "Rockstar Award" for Excellence in Product Management.
-  - Managed 3 product managers, owned go-to-market and product operations for the company’s first-party gaming platform.
+* Recruited by and reported to the CEO; sat on Executive team and built Product, Design, and UX functions for the social media shopping product with investors like Tyra Banks, Ashton Kutcher, Khosla Ventures and Javelin Partners.
+* Established Product and Design processes, directing teams through the development and launch of iOS and Android applications, which scaled product users and led to successful acquisition by Pinterest. 
 
-### MySpace - Beverly Hills, CA  
-**08/2009 - 01/2011**
+**ZYNGA \- San Francisco, CA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  03/2011 \- 09/2012**\
+**Lead Product Manager**
 
-- **Director of Product Management**
-  - Managed top-tier pages generating 7-figure daily ad revenue. Led team of 4 including product & design.
-  - Spearheaded the first data-driven redesign in company history, driving 2X more engagement with the home page.
+* Brought in by GM (former manager, Myspace) to sit on the org-wide platform operations team serving 10 Studio gaming divisions; led Product team of 3 and ran GTM Studio roadmaps with Marketing, Engineering, Design, Analytics, and User Research teams.
+* Directed the relaunch of Zynga.com as a functional gaming platform, achieving 1M daily active users in 3 months; earned "Rockstar Award” for Excellence in Product Management.
 
-### Userplane (acquired by AOL) - Beverly Hills, CA  
-**06/2004 - 08/2009**
+**MYSPACE \- Los Angeles, CA &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 08/2009 \- 01/2011**\
+**Director of Product Management**
+* Recruited to lead Product and Design on the multi million dollar Ads business; ran Engineering, Product Management, Project Management, and Design work streams. 
 
-- **Principal Product Manager, Head of Product (05/2008 - 08/2009)**
-- **Technical Product Manager (05/2006 - 04/2008)**
-- **Integration Specialist (06/2004 - 04/2006)**
-  - Managed the portfolio and roadmap, working closely with C-suite on multiple 0-1 product launches.
-  - Built scalable customer success operation, delivering unparalleled developer support to thousands of customers.
+* Spearheaded first-ever data-driven intuitive redesign for the org; owned A/B testing and features analytics to deliver platform transformation that created 2x web engagement.
 
-## Education
+**AOL (acquisition of Userplane) \- Los Angeles, CA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 06/2004 \- 08/2009**\
+**Principal Product Manager** (04/2008 \- 08/2009)\
+**Technical Product Manager** (04/2006 \- 04/2008)\
+**Integration Specialist** (06/2004 \- 04/2006)
 
-**California State Polytechnic University** - Pomona, CA  
-**Bachelor of Science in Physics** (06/2006)  
-Certifications: Generative AI with Large Language Models (DeepLearning.ai), Bareboat Cruising (US Sailing)
+* First of 10 hires at Userplane to build for AOL acquisition; pioneered live text, audio, and video apps; provided highly customizable, white-label messaging platforms for global brands including eHarmony, Match, Jdate and PlentyOfFish.
 
-## Patents
-Awarded 5 patents for social platform innovations: US8784204B2, US20130231179A1, US11602688B2, US10463972B2, US20160127455A1
+* Built scalable Product development that transformed automation on customer signups and launched multi-person video chat feature with ads placements; partnered with CTO and managed 8 Engineers and 3 Designers. 
 
-## Skills
-- B2B, B2C, Social Networking, Platform Development
-- Data Analysis (SQL & Python), Data Structures, Experiment Design
-- Recommender Systems, Multi-Armed Bandits, LLM & NLP
-- Roadmap Planning, Product & UX Management, Engineering Partnership
+* Created Customer Success infrastructure via product development with sales solution strategy, roadmaps for new features, requirements, and Engineering structure to ensure CS delivery. 
 
-<audio controls>
-  <source src="{{ '/assets/audio/Deep_Dive.mp3' | relative_url }}" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+## EDUCATION 
+
+**CALIFORNIA STATE POLYTECHNIC UNIVERSITY \- Pomona, CA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 06/2006**\
+**Bachelor of Science in Physics**\
+**Certifications:** Generative AI with Large Language Models (DeepLearning.ai)\
+**Patents**: Awarded 5 patents for platform innovations: [US8784204](https://patents.google.com/patent/US8784204B2/en?oq=US8784204), [US20130231179A1](https://patents.google.com/patent/US9756549B2/en), [US11602688B2](https://patents.google.com/patent/US11602688B2/en?oq=US11602688B2), [US10463972B2](https://patents.google.com/patent/US10463972B2/en?oq=US10463972B2), [US20160127455A1](https://patents.google.com/patent/US20160127455A1/en?oq=US20160127455A1)  
+**Tech Stack:** SQL, Python, R, Databricks, PostgreSQL, MLflow, MySQL, Tableau, Looker, Google Analytics, Jira, Asana, Trello, et al.
